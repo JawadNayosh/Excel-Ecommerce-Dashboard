@@ -24,7 +24,5 @@ Purpose
 This project demonstrates my ability to build clear, insightful dashboards using Excel — a useful sample for data analyst and BI roles.
 
 Connect
-
-LinkedIn: www.linkedin.com/in/jawadnayosh
-
+[LinkedIn: www.linkedin.com/in/jawadnayosh](https://www.linkedin.com/in/jawad-nayosh-ab02b7365/)
 GitHub: https://github.com/JawadNayosh
