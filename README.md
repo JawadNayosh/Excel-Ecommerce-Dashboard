@@ -1,8 +1,7 @@
 ## Excel-Ecommerce-Dashboard
-<!-- Failed to upload "Screen Recording 2025-11-21 153845.mp4" -->
-E-Commerce Analytics Dashboard (Excel)
-🔍 Overview
+<img width="846" height="417" alt="Image" src="https://github.com/user-attachments/assets/9ac5e063-954a-4e68-b787-ca4efa6647a4" />
 
+# Overview
 A fully interactive Excel dashboard built to analyze e-commerce sales, customer behavior, product performance, and shipping trends. This project shows how powerful Excel can be for business intelligence and storytelling with data.
 
 # Key Features
